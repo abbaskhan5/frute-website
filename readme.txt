@@ -1,28 +1,34 @@
+Frute Website
+A clean, modern, and responsive React.js & Tailwind CSS frontend template designed for showcasing fruit products. This project is crafted with flexibility in mind, making it easy to maintain, modify, and extend for various use cases. Our aim is to provide a well-structured template that allows developers to jump-start their projects and meet diverse requirements with ease.
 
-The code is consistent and can be easily maintained as we have followed a good coding standard. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+Features
+Modern UI: Built with the latest frontend technologies, offering a seamless user experience across all devices.
+Responsive Design: Optimized for desktops, tablets, and mobile phones.
+Tailwind CSS: Fast styling with utility-first classes for rapid customization.
+React.js Components: Dynamic, reusable components that simplify development.
+Code Quality
+We’ve adhered to a consistent coding standard to ensure that the code is:
 
-You are allowed to use it in your personal projects and commercial projects.
+Easy to understand
+Simple to modify and extend
+Efficiently structured for better maintainability
+We encourage everyone to dive into the code, adapt it for their needs, and create something amazing!
 
-You can modify and sell it to your clients. 
+Usage Rights
+You are free to use this project in:
 
-CREDITS & REFERENCES
+Personal projects
+Commercial projects
+Feel free to modify the code to suit your needs, and even sell it to clients. We only ask that you give credit where appropriate.
 
-https://getbootstrap.com/
-
+Credits & References
+Framework
+Bootstrap
 Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
-
+Unsplash
+Freepik
+Pexels
 Fonts
-Google fonts
-https://fonts.google.com/
-
+Google Fonts
 Icons
-https://icon-sets.iconify.design/
-
-Bootstrap Framework
-https://getbootstrap.com/
-
-
-
+Iconify
